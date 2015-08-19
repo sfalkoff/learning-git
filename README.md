@@ -1,6 +1,6 @@
 # Hello There
 
-Lets learn about reverts, and merge conflicts.
+Hi there, and merge conflicts.
 
 ## Reverts
 
